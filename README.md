@@ -1,4 +1,4 @@
-# Chrome Webstore ([Download v1.0](https://raw.github.com/handtrix/alfred-chrome-webstore-workflow/master/chrome-webstore.alfredworkflow))
+# Chrome Webstore ([Download v1.1](https://raw.github.com/handtrix/alfred-chrome-webstore-workflow/master/chrome-webstore.alfredworkflow))
 
 Alfred App Workflow for [Chrome Web Store](https://chrome.google.com/webstore)
 
